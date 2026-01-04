@@ -1,3 +1,0 @@
-type,ip,count,severity,details
-Unauthorized Access Attempt,203.0.113.9,1,HIGH,IP 203.0.113.9 tried accessing /admin
-Unauthorized Access Attempt,203.0.113.9,1,HIGH,IP 203.0.113.9 tried accessing /admin
